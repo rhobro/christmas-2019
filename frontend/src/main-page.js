@@ -1,3 +1,13 @@
+/*
+ * Copyright © 2019 NeuroByte Tech. All rights reserved.
+ *
+ * NeuroByte Tech is the Developer Company of Rohan Mathew.
+ *
+ * Project: ChristmasPresentHunt
+ * File Name: main-page.js
+ * Last Modified: 29/12/2019, 13:20
+ */
+
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
 import '@vaadin/vaadin-ordered-layout/src/vaadin-vertical-layout.js';
 import '@vaadin/vaadin-ordered-layout/src/vaadin-horizontal-layout.js';
