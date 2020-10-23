@@ -5,7 +5,7 @@
  *
  * Project: ChristmasPresentHunt
  * File Name: MainPage.java
- * Last Modified: 23/10/2020, 19:40
+ * Last Modified: 23/10/2020, 19:57
  */
 
 package tech.neurobyte.dev;
@@ -27,7 +27,7 @@ import java.time.LocalDate;
 
 /**
  * A Designer generated component for the main-page template.
- *
+ * <p>
  * Designer will add and remove fields with @Id mappings but
  * does not overwrite or otherwise change this file.
  */
