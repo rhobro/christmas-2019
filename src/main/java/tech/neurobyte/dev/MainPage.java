@@ -1,11 +1,11 @@
 /*
- * Copyright © 2019 NeuroByte Tech. All rights reserved.
+ * Copyright © 2020 NeuroByte Tech. All rights reserved.
  *
  * NeuroByte Tech is the Developer Company of Rohan Mathew.
  *
  * Project: ChristmasPresentHunt
  * File Name: MainPage.java
- * Last Modified: 29/12/2019, 13:20
+ * Last Modified: 23/10/2020, 19:40
  */
 
 package tech.neurobyte.dev;
@@ -51,9 +51,8 @@ public class MainPage extends PolymerTemplate<MainPage.MainPageModel> {
         System.out.println("Main page has been visited");
         this.vaadinButton.addClickListener(event -> {
             if (this.vaadinTextField.getValue().toUpperCase().equals("H1J2D3DLI48")) {
-                System.out.println("Main page has been succeeded.");
-                Notification.show("You guys are noobs", 10000, Notification.Position.TOP_START);
-                Notification.show("A.K.A. Go to github.com and search my name.", 10000, Notification.Position.TOP_START);
+                System.out.println("Main page has been solved.");
+                Notification.show("A.K.A. Go to https://github.com/Bytesimal/ChristmasPresentHunt/blob/master/supplementary/README.md", 10000, Notification.Position.TOP_START);
                 Notification.show("To find the things you need to know.", 10000, Notification.Position.TOP_START);
                 Notification.show("To my Github you must go", 10000, Notification.Position.TOP_START);
             } else {

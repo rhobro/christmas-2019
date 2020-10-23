@@ -1,3 +1,13 @@
+/*
+ * Copyright © 2020 NeuroByte Tech. All rights reserved.
+ *
+ * NeuroByte Tech is the Developer Company of Rohan Mathew.
+ *
+ * Project: ChristmasPresentHunt
+ * File Name: webpack.generated.js
+ * Last Modified: 29/12/2019, 11:53
+ */
+
 /**
  * NOTICE: this is an auto-generated file
  *

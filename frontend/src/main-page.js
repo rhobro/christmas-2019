@@ -1,11 +1,11 @@
 /*
- * Copyright © 2019 NeuroByte Tech. All rights reserved.
+ * Copyright © 2020 NeuroByte Tech. All rights reserved.
  *
  * NeuroByte Tech is the Developer Company of Rohan Mathew.
  *
  * Project: ChristmasPresentHunt
  * File Name: main-page.js
- * Last Modified: 29/12/2019, 13:20
+ * Last Modified: 29/12/2019, 13:22
  */
 
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
