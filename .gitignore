@@ -1,3 +1,4 @@
 # Project exclude paths
 /target/
 /target/classes/META-INF/VAADIN/build/
+/node_modules/
